@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="text-align: justify;">
 I graduated from the School of Highway at Chang'an University in June 2022 with a Ph.D. in Engineering under the supervision of Professor Sen Han. I currently serves as an academic associate professor at the School of Transportation at Shandong University of Science and Technology. My primary research areas include finite element analysis of anti-skid and noise-reducing asphalt pavements, resource recycling of industrial waste, and machine learning applications in road engineering. I am a guest editor for Coatings and serves as a youth editorial board member for journals such as Journal of Chang'an University (Natural Science Edition), Highway Engineering, and Municipal Technology. I also reviews for journals including Construction and Building Materials, International Journal of Pavement Research and Technology, and Shandong Transportation Science and Technology. He is a fellow of the Vebleo Association, an international scientific organization. As the first or corresponding author, I have published over ten high-quality papers in leading international journals such as China Journal of Highway and Transport, Computer-Aided Civil and Infrastructure Engineering, and Construction and Building Materials. My accolades include nomination for the "2024 China Simulation Society High-Quality Ph.D. Thesis Incentive Program," "Chang'an University Outstanding Graduate," and the "2023 Chang'an University Outstanding Ph.D. Thesis Award." Additionally, I led a team that won second place in the "National College Students Transportation Science and Technology Competition."
-
+</div>
 
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
